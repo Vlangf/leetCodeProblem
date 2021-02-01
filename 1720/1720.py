@@ -26,4 +26,4 @@ def decode_two(encoded: List[int], first: int) -> List[int]:
     return arr
 
 
-print(decode_two(encoded=[1, 2, 0], first=0))
+print(decode_two(encoded=[1, 2, 3], first=4))
