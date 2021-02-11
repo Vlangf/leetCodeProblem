@@ -41,5 +41,3 @@ def shortestToChar_two(S, C):
 
 
 print(shortestToChar_two("loveleetcode", "e"))
-
-# Output: [3,2,1,0,1,0,0,1,2,2,1,0]
