@@ -11,7 +11,6 @@ def totalHammingDistance(nums: List[int]) -> int:
         for each in nums:
             result += bin(last | each).count('1')
 
-
     return result
 
 
